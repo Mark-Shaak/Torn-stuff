@@ -20,7 +20,7 @@
     ////
 
     function playSlackBeep() {
-            let audio = new Audio('https://media.geeksforgeeks.org/wp-content/uploads/20190531135120/beep.mp3');
+            let audio = new Audio('https://www.torn.com/js/chat/sounds/Chirp_1.mp3');
             audio.play();
         }
 
